@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/418a4d8d-0f73-4b73-8ad4-d531ed82858e)# ProyectoFinal
+# ProyectoFinal
 
 # ¿Para qué es esta propuesta? 
 Crear una plataforma interactiva y educativa que permita a los usuarios explorar las diferentes zonas de Chile. El sitio mostrará información visual y detallada de cada región, resaltando aspectos como la cultura, geografía, y sitios emblemáticos. También incluirá recomendaciones de destinos y actividades, donde esta vitrina ayudará a los usuarios a conocer la diversidad cultural y geográfica de Chile.
