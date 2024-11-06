@@ -1,4 +1,4 @@
-# ProyectoFinal
+![image](https://github.com/user-attachments/assets/418a4d8d-0f73-4b73-8ad4-d531ed82858e)# ProyectoFinal
 
 # ¿Para qué es esta propuesta? 
 Crear una plataforma interactiva y educativa que permita a los usuarios explorar las diferentes zonas de Chile. El sitio mostrará información visual y detallada de cada región, resaltando aspectos como la cultura, geografía, y sitios emblemáticos. También incluirá recomendaciones de destinos y actividades, donde esta vitrina ayudará a los usuarios a conocer la diversidad cultural y geográfica de Chile.
@@ -18,9 +18,14 @@ https://viajes.nationalgeographic.com.es/ : Destaco que el sitio utiliza imágen
 
 https://fitzroy-travel.com/ : El sitio utiliza imágenes de alta calidad que capturan la atención del usuario y complementan el contenido escrito, incorpora elementos interactivos, como mapas y galerías de fotos, que fomentan la exploración del contenido. Lo negativo sería que la navegación requiere mucho desplazamiento, lo que puede resultar cansador para algunos usuarios.
 
+https://antilophia.com/ : La calidad de imágenes y el orden como lo ordenan por continentes, países, es muy claro lo que mantiene la atención del usuario y permite navegar sin dificultad. Destaco que presenta una gran imagen de fondo en la portada, con un texto claro superpuesto. Lo negativo es que la página presenta imágenes con un estilo minimalista y espaciado, pero esto limita la cantidad de fotos.
 
+https://bru-bru.com/ : Se destaca que es muy intuitiva y fácil de navegar, con diferentes fotografías. También destaco que tenga diferentes opciones para ver "travel stories", o simplemnte ver destinos, tipos de viaje, etc. Lo negatvo es que al apretar algún destino, las imágenes ya no están en tan buena calidad.Además de que se utiliza una variedad de colores que, en algunos casos, no combinan, y falta de cohesión visual.
 
+https://travelworldescape.com/ : Utiliza imágenes de alta calidad que capturan la atención del usuario. Además destaca su compromiso con el turismo sostenible, promoviendo prácticas responsables y enfocándose en viajes que respeten el medio ambiente, donde apela a un público interesado en el impacto positivo de sus decisiones de viaje. Lo negativo es que se siente poco intuitivo, con una estructura que no guía claramente al usuario hacia las secciones principales o contenido destacado. Y la estructura es repetitiva y falta variación visual.
 
-https://www.nelson.travel/ : Destaco que la información está ordenada y de manera lógica. Ofrece una experiencia de usuario fluida y atractiva, donde salen actividades y reseñas de diferentes lugares. Lo negativo es que la paleta de colores es demasiado neutra y la portada no invita al usuario a explorar o interactuar más allá de lo visible,
+https://www.nelson.travel/ : Destaco que la información está ordenada y de manera lógica. Ofrece una experiencia de usuario fluida y atractiva, donde salen actividades y reseñas de diferentes lugares y hoteles. Lo negativo es que la paleta de colores es demasiado neutra y la portada no invita al usuario a explorar o interactuar más allá de lo visible,
 
 # ¿Qué existe que puede inspirar la propuesta? 
+![Final](https://github.com/user-attachments/assets/2cf61ac1-c5e9-4768-a818-e5e1776de710)
+
